@@ -85,7 +85,7 @@ You can use "$file" inside your view to display file and call different operatio
 
     <?php echo $file->scaleCrop(300, 300, true)->getImgTag(); ?>
 
-[You can find out more about CDN here][2]
+[You can find out more about CDN and operations here][2]
 
 [1]: https://uploadcare.com/
 [2]: https://uploadcare.com/documentation/reference/basic/cdn.html
