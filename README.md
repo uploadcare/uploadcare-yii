@@ -8,6 +8,7 @@ It's based on a [uploadcare-php][3] library.
 
 - Yii 1.1+
 - PHP 5.2+
+- php-curl
 
 ## Install
 
