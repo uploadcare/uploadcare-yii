@@ -89,6 +89,6 @@ You can use "$file" inside your view to display file and call different operatio
 [You can find out more about CDN and operations here][2]
 
 [1]: https://uploadcare.com/
-[2]: https://uploadcare.com/documentation/reference/basic/cdn.html
+[2]: https://uploadcare.com/documentation/cdn/
 [3]: https://github.com/uploadcare/uploadcare-php
 [4]: http://www.yiiframework.com/
